@@ -1,5 +1,5 @@
 # Dynamic-Asset-Allocation-with-Sector-Constraints-A-Portfolio-Optimization-Approach
-This project demonstrates portfolio optimization using an **Equal Weight Allocation** strategy. The analysis is implemented in a Jupyter Notebook and explores how distributing investment capital evenly across assets can serve as a simple yet effective portfolio construction method.
+This project demonstrates portfolio optimization using an **Equal Weight Allocation** strategy. The analysis explores how distributing investment capital evenly across assets can serve as a simple yet effective portfolio construction method.
 
 ---
 
